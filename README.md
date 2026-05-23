@@ -20,6 +20,11 @@ A responsive and attractive image gallery website with beautiful hover effects a
 ### 🛠️ Technologies Used
 - HTML5
 - CSS3
+- JavaScript
+
+### 📸 Output
+
+![Image Gallery Output](ImageGallery/galleryOutput.png)
 
 ---
 
@@ -40,6 +45,10 @@ A simple and functional calculator capable of performing basic arithmetic operat
 - CSS3
 - JavaScript
 
+### 📸 Output
+
+![Calculator Output](Calculator/calculator-output.png)
+
 ---
 
 ## 💼 3. Personal Portfolio
@@ -58,49 +67,44 @@ A modern portfolio website to showcase profile, skills, and projects.
 - CSS3
 - JavaScript
 
+### 📸 Output
+
+![Portfolio Output](Priyanshi-Portfolio/portfolio-output.png)
+
 ---
 
 # 📂 Folder Structure
 
 ```bash
-CodeAlpha-Frontend-Projects/
-│
-├── Image-Gallery/
+CodeAlpha_Frontend_Projects/
 │
 ├── Calculator/
 │
-└── Portfolio/
+├── ImageGallery/
+│
+└── Priyanshi-Portfolio/
 ```
 
 ---
 
 # ▶️ How to Run
 
-1. Clone the repository
+## Step 1
+Clone the repository
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha-Frontend-Projects.git
+git clone https://github.com/your-username/CodeAlpha_Frontend_Projects.git
 ```
-
-2. Open the project folder
-
-3. Run the `index.html` file in your browser
 
 ---
 
-# 📸 Outputs
+## Step 2
+Open the project folder in VS Code.
 
-## 🖼️ Image Gallery
-- Responsive image showcase
-- Beautiful gallery interface
+---
 
-## 🧮 Calculator
-- Working arithmetic calculator
-- Interactive button design
-
-## 💼 Portfolio
-- Professional responsive portfolio
-- Modern UI design
+## Step 3
+Run the `index.html` file in your browser.
 
 ---
 
@@ -119,9 +123,3 @@ Frontend Development Internship by **CodeAlpha**
 # ⭐ Acknowledgement
 
 Thanks to **CodeAlpha** for providing this internship opportunity and helping me improve my frontend development skills.
-
----
-
-# 📜 License
-
-This project is created for educational and internship purposes.
